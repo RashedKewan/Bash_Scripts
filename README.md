@@ -25,27 +25,66 @@ chmod +x *.sh
 
 
 
->  #### *`sum_two_numbers.sh`* it's a bash script that collects two numbers from the user and then  prints  a message if these two numbers are smaller or greater than 100.
+>  ### Bash script that collects two numbers from the user and then  prints  a message if these two numbers are smaller or greater than 100.
 > ![](sum.png)
+> ```bash
+> # run the script
+> $ ./sum_two_numbers.sh
+> ```
+> Then it going to ask you to enter two numbers ,for example I'v entered 33 , 22
+> ```bash
+> Please enter two numbers.
+> First  number: 33
+> Second number: 22
+> ```
+> `Output`
+> ```
+> 33 + 22 = 55
+> 55 less than 100!
+> ```
 ##
+
+
+
+
+
 ##
-> #### *`f_to_c.sh`* bash script that reads a temperature in Fahrenheit and converts it to Celcius
+> ### Bash script that reads a temperature in Fahrenheit and converts it to Celcius
 > ![](ftoc.png)
+> ```bash
+> # run the script
+> $ ./f_to_c.sh
+> ```
+> Then it going to ask you to enter the temperature in **Fahrenheit** ,for example I'v entered 32
+> ```
+> Convert Fahrenheit temperature into Celsius temperature
+> Enter temperature (F): 32
+> ```
+> `Output`
+> ```
+> 32 F = 0 C
+> ```
 ##
+
+
+
+
+
 ##
-> #### *`top_ten_largests_files.sh`* bash script that finds the largest 10 files in a directory.
+> ### Bash script that finds the largest 10 files in a directory.
 > ```bash
 > # run the script
 > $ ./top_ten_largests_files.sh
+> ```
+> Then it going to ask you to enter directory path
+> ```
 > Please enter directory path: HEAR_YOU_NEED_TO_ENTER_THE_DIRECTORY_PATH
 > ```
 > `Example`
-> ```bash
-> # run the script
-> $ ./top_ten_largests_files.sh
+> ```
 > Please enter directory path: /c/Users/diaba/testapp
 > ```
-> `output`
+> `Output`
 > ```
 > List of the largest 10 files in /c/Users/diaba/testapp
 > --------------------------------------------------------
