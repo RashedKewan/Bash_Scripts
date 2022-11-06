@@ -3,7 +3,7 @@
 * Open terminal
 * Clone repository by running the line code below
 ```bash
-git clone https://github.com/RashedKewan/Fursa.git
+https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 ```
 * move to the repository
 ```bash
