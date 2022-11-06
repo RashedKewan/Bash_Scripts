@@ -1,6 +1,6 @@
 
 # *Welcome To Fursa Repository*
-**DevOps Bootcamp , [Fusra](https://www.fursa.org.il/) , 200 academic hours.**
+**DevOps Bootcamp , [Fusra](https://www.fursa.org.il/).**
 
 An intensive DevOps training bootcamp covering the industry standards in DevOps tools and methodologies including, Linux, CI/CD, Containers and Orchestration, AWS and more.
 
