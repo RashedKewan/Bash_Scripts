@@ -1,5 +1,5 @@
 # **Bash Scripts**
-> ## Clone Bash Scripts Repository
+### Clone Bash Scripts Repository
 * Open terminal
 * Clone repository by running the line code below
 ```bash
@@ -9,7 +9,7 @@ git clone https://github.com/RashedKewan/Fursa.git
 ```bash
 git branch -b Bash_Scripts
 ```
-> ## Running Bash Scripts 
+### Running Bash Scripts 
 * Give user permission to execute
 ```bash
 chmod +x *.sh
@@ -17,9 +17,7 @@ chmod +x *.sh
 
 * Run 
 ```bash
-./file_name.sh
-# For Example:
-./f_to_c.sh
+./SCRIPT_NAME.sh
 ```
 ##
 ## In this repository we have three bash scripts that each one do specific task.
