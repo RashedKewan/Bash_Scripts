@@ -10,6 +10,15 @@ https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 git checkout Bash_Scripts
 ```
 ### Running Bash Scripts 
+
+* move to the repository
+```bash
+git checkout Bash_Scripts
+```
+* move to Scripts directory
+```bash
+cd scripts
+```
 * Give user permission to execute
 ```bash
 chmod +x *.sh
@@ -26,7 +35,7 @@ chmod +x *.sh
 
 
 >  ### Bash script that collects two numbers from the user and then  prints  a message if these two numbers are smaller or greater than 100.
-> ![](sum.png)
+> ![](imgs/sum.png)
 > ```bash
 > # run the script
 > $ ./sum_two_numbers.sh
@@ -50,7 +59,7 @@ chmod +x *.sh
 
 ##
 > ### Bash script that reads a temperature in Fahrenheit and converts it to Celcius
-> ![](ftoc.png)
+> ![](imgs/ftoc.png)
 > ```bash
 > # run the script
 > $ ./f_to_c.sh
