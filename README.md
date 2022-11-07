@@ -7,7 +7,7 @@ https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 ```
 * move to the repository
 ```bash
-git branch -b Bash_Scripts
+git checkout Bash_Scripts
 ```
 ### Running Bash Scripts 
 * Give user permission to execute
