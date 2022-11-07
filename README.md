@@ -5,17 +5,17 @@
 ```bash
 https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 ```
-* move to the repository
+* Move to the repository
 ```bash
 git checkout Bash_Scripts
 ```
 ### Running Bash Scripts 
 
-* move to the repository
+* Move to the repository
 ```bash
 git checkout Bash_Scripts
 ```
-* move to Scripts directory
+* Move to scripts directory
 ```bash
 cd scripts
 ```
