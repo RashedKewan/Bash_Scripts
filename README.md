@@ -6,9 +6,6 @@
 https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 ```
 * Move to the repository
-```bash
-git checkout Bash_Scripts
-```
 ### Running Bash Scripts 
 
 * Move to the repository
