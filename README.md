@@ -5,7 +5,6 @@
 ```bash
 https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 ```
-* Move to the repository
 ### Running Bash Scripts 
 
 * Move to the repository
