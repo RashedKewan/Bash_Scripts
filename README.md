@@ -105,4 +105,3 @@ chmod +x *.sh
 > 2.0K    /c/Users/diaba/testapp/.git/refs/remotes/origin
 > ```
 #
->>>>>>> Bash_Scripts
