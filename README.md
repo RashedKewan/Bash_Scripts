@@ -1,11 +1,14 @@
-# **Bash Scripts**
-### Clone Bash Scripts Repository
+## In this repository we have three bash scripts that each one do specific task.
+
+
+### **Guide To Run The Scripts**
+#### Clone Bash Scripts Repository
 * Open terminal
 * Clone repository by running the line code below
 ```bash
 https://github.com/RashedKewan/DevOps-Bootcamp-Fusra.git
 ```
-### Running Bash Scripts  
+#### Running Bash Scripts  
 * Move to scripts directory
 ```bash
 cd scripts
@@ -20,11 +23,8 @@ chmod +x *.sh
 ./SCRIPT_NAME.sh
 ```
 ##
-## In this repository we have three bash scripts that each one do specific task.
 
-
-
-
+### **About The Scripts**
 >  ### Bash script that collects two numbers from the user and then  prints  a message if these two numbers are smaller or greater than 100.
 > ![](imgs/sum.png)
 > ```bash
